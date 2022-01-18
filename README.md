@@ -1,5 +1,6 @@
 # Card-NFT-Equilibrium
-Projeto construído para o desafio do NFT preview Card component do Frontend Mentor.
+Projeto construído para o desafio do NFT preview Card component do Frontend Mentor totalmente responsivo para mobile e desktops.
+![screencapture-127-0-0-1-5500-projeto-novo-index-html-2022-01-18-12_19_11](https://user-images.githubusercontent.com/91372587/149973398-9e56e3a2-ad2d-4889-9e43-22bff9d656ec.png)
 
 
 ## Bem vindo(a)! 👋
