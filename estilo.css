@@ -1,0 +1,147 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding-bottom: 15px;
+  transform: translate(-50%, -50%);
+  width: 280px;
+  height: 460px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  box-shadow: 1px 1px 5px black;
+}
+
+.imagem {
+  position: absolute;
+  top: 140px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  border-radius: 10px;
+}
+
+.container-2{
+  position: relative;
+  background-color: turquoise;
+  
+
+}
+#eyes {
+  position: absolute;
+  top: 140px;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.paragrafo {
+  position: absolute;
+  top: 64%;
+  padding: 12px;
+  margin: 2px;
+
+  color: hsl(216, 21%, 38%);
+}
+
+.paragrafo-principal {
+  position: absolute;
+  top: 62%;
+  left: 31%;
+  transform: translate(-50%, -50%);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+.paragrafo-principal:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+
+.ethereum {
+  position: absolute;
+  top: 82%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+
+.valor {
+  position: absolute;
+  top: 81%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+}
+
+.relogio {
+  position: absolute;
+  top: 81%;
+  left: 56%;
+  transform: translate(-50%, -50%);
+}
+
+.dias {
+  position: absolute;
+  top: 81%;
+  left: 73%;
+  margin: 1.6px;
+  transform: translate(-50%, -50%);
+  color: hsl(216, 22%, 55%);
+}
+
+hr {
+  position: relative;
+  top: 89%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 85%;
+  border: none;
+  height: 1px;
+  color: rgb(58, 56, 56); /* old IE */
+  background-color: hsl(216, 21%, 38%);
+}
+
+.final {
+  position: absolute;
+  top: 94%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+}
+
+.final:hover {
+  border: 1px solid white;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.final-1 {
+  position: absolute;
+  top: 94%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: hsl(216, 22%, 55%);
+}
+.final-2 {
+  position: absolute;
+  top: 94%;
+  left: 68%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+}
+
+.final-2:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
