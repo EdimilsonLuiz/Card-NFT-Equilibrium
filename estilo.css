@@ -113,27 +113,27 @@ hr {
   background-color: hsl(216, 21%, 38%);
 }
 
-.final {
+.profile {
   position: absolute;
   top: 94%;
   left: 15%;
   transform: translate(-50%, -50%);
 }
 
-.final:hover {
+.profile:hover {
   border: 1px solid white;
   border-radius: 25px;
   cursor: pointer;
 }
 
-.final-1 {
+.creation {
   position: absolute;
   top: 94%;
   left: 40%;
   transform: translate(-50%, -50%);
   color: hsl(216, 22%, 55%);
 }
-.final-2 {
+.name {
   position: absolute;
   top: 94%;
   left: 68%;
@@ -141,7 +141,7 @@ hr {
   color: aliceblue;
 }
 
-.final-2:hover {
+.name:hover {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
